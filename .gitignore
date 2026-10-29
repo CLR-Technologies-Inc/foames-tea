@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Design records and agent build files stay off this public repository.
+# Agent files meant to help others adopt FoaMES for TEA may be added explicitly.
+.claude/
+.agent/
+.agents/
+CLAUDE.local.md
+worktrees/
+.worktrees/
+design/
